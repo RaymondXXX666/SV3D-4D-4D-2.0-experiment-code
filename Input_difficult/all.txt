@@ -1,0 +1,10 @@
+/Users/nowucme/Desktop/图片/Input/薄结构.png
+/Users/nowucme/Desktop/图片/Input/玻璃.png
+/Users/nowucme/Desktop/图片/Input/部分遮挡.png
+/Users/nowucme/Desktop/图片/Input/低纹理哑光.png
+/Users/nowucme/Desktop/图片/Input/低照度.png
+/Users/nowucme/Desktop/图片/Input/非刚体.png
+/Users/nowucme/Desktop/图片/Input/复杂纹理.png
+/Users/nowucme/Desktop/图片/Input/高反射.png
+/Users/nowucme/Desktop/图片/Input/强对称体.png
+/Users/nowucme/Desktop/图片/Input/细密结构.png
