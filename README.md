@@ -1,4 +1,4 @@
-🚀generative-modal => official code👑
+🚀generative-modal => official code👑 PS:SV3D series modal expect img input, while SV4D series modal expect mp4 input😱
 
 🚀input_simple => simple tasks & entire front perspective 2D image🍳
 
