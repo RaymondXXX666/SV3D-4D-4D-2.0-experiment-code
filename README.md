@@ -1,4 +1,4 @@
-# HI, here is the environment used in the experiment, after installing all of them, you just need to download the weight of the modal that you need from Hugging Face. （ ✿＞◡❛）
+# HI, here is the environment used in the experiment, after installing all of them, you just need to download the weight of the modal that you need from Hugging Face. （ ✿＞◡❛）#### if not, just pip install WhateverCouldn'tFind
 
 Environment:
 
