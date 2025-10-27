@@ -1,4 +1,5 @@
-🚀generative-modal => official code👑 PS:SV3D series modal expect img input, while SV4D series modal expect mp4 input😱
+🚀generative-modal => official code👑 PS:SV3D series modal expect img input, while SV4D series modal expect mp4 input😱 
+you can compare by using entirely static video vs video with an orbit, SV4D likes merry-go-rounds: take away the spin and its noise prediction stops behaving.
 
 🚀input_simple => simple tasks & entire front perspective 2D image🍳
 
