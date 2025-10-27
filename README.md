@@ -1,10 +1,15 @@
 Environment:
 
 OS：Ubuntu 22.04
+
 Python：3.11
+
 CUDA 12.x
+
 CUDA Toolkit：Pytorch wheel
+
 GPU: M2 Pro + L40S
+
 Tool & Dependency: 
 
 apt-get update && apt-get install -y git ffmpeg
