@@ -4,7 +4,8 @@ Environment:
 
 <img width="763" height="152" alt="image" src="https://github.com/user-attachments/assets/f3e00400-53bc-45ca-93eb-bb4fc2cc0298" />
 
-<img width="758" height="566" alt="image" src="https://github.com/user-attachments/assets/1543161a-7262-41a9-9e44-2df0648deeab" />
+<img width="753" height="215" alt="image" src="https://github.com/user-attachments/assets/3291d4f3-eed6-46e5-9caf-3117b365eb89" />
+
 
 OS：Ubuntu 22.04
 
