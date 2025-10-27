@@ -4,7 +4,8 @@ Environment:
 
 OS：Ubuntu 22.04
 
-Python：3.11
+Python：3.11                                 <img width="758" height="566" alt="image" src="https://github.com/user-attachments/assets/1543161a-7262-41a9-9e44-2df0648deeab" />
+
 
 CUDA 12.x
 
